@@ -1,0 +1,22 @@
+<html><body>
+<br>Hi,</br>
+<br>Please find the below details</br>
+<br></br>
+<table border = 1>
+<tr>
+<td>Username</td>
+<td>useridvar</td>
+</tr>
+<tr>
+<td>Email ID</td>
+<td>emailidvar</td>
+</tr>
+<tr>
+<td>Mobile No</td>
+<td>mobnovar</td>
+</tr>
+</table>
+<br></br>
+<br>Regards,</br>
+<br>SahajB</br>
+</body></html>
